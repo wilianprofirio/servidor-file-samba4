@@ -7,7 +7,7 @@
 #####	E-MAIL:				ntswilian@gmail.com
 #####	DISTRO:				Ubuntu GNU/Linux 22.04
 #####	LICENÇA:			MIT license
-#####	PROJETO:			https://github.com/OgliariNatan/servidor-file-samba4
+#####	PROJETO:			https://github.com/wilianprofirio/servidor-file-samba4
 #########################Torne o scripty executavél ##########
 ## chmod u+x novo_script
 ##############################
