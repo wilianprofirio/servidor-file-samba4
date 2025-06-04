@@ -25,7 +25,7 @@ network:
       enp2s0:
          dhcp4: false
          dhcp6: no
-         addresses: [20.40.22.1/24]
+         addresses: [20.40.22.1/25]
          routes:
              - to: default
                via: 20.40.22.254
