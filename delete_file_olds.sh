@@ -10,7 +10,7 @@
 #####   E-MAIL:                         ntswilian@gmail.com
 #####   DISTRO:                         Ubuntu GNU/Linux 22.04
 #####   LICENÇA:                        MIT license
-#####   PROJETO:                        https://github.com/OgliariNatan/servidor-file-samba4
+#####   PROJETO:                        https://github.com/wilianprofirio/servidor-file-samba4
 
 echo -e "Removendo arquivos na data de: $(date +%d%m%y)" >> /home/servidor/samba/conf/log/log.delete_file_olds
 echo -e "Entro no scripty de remoção de arquivos da lixeira \n\n" >> /home/servidor/samba/conf/log/log.delete_file_olds
