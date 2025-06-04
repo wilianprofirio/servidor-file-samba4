@@ -3,8 +3,8 @@
 #####	NOME:				torna_executavel.sh
 #####	VERSÃO:				1.2
 #####	DESCRIÇÃO:			Implementação de rotina para tornar aqruivos executaveis
-#####	DATA DA CRIAÇÃO:	18/03/2025
-##### ATUALIZADO EM: 18/04/2025
+#####	DATA DA CRIAÇÃO:	18/04/2025
+##### ATUALIZADO EM: 18/05/2025
 #####	ESCRITO POR:		Wilian Profirio da Silva
 #####	E-MAIL:				ntswilian@gmail.com
 #####	DISTRO:				Ubuntu GNU/Linux 22.04
